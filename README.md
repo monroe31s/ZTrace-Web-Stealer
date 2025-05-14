@@ -4,7 +4,7 @@ ZTrace Made In Golang. Web Panel.
 ![1](https://github.com/user-attachments/assets/c8340adc-bf0a-4806-8f91-c70f8e0ed27b)
 ![2](https://github.com/user-attachments/assets/2337e6c3-6b79-4ec8-a230-bf1f7b4c62c5)
 
-https://t.me/NeverTrace
+https://t.me/ZeroTraceD3V
 # 🕳️ ZTrace Panel
 
 ![License](https://img.shields.io/badge/license-ECL-blueviolet)
